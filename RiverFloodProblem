@@ -1,5 +1,5 @@
 
-#### ASSIGNMENT 1 - MACHINE LEARNING 2 
+#### River Flood Problem (solved with NN)
 
 Two sensors are installed in Susquehanna river that can measure the level of the water on two different locations. Their measurements goes through a neural network and the output shows if there is a chance of flood or not (y=1 means there is a chance of flood). Suppose sensor 1 shows 0.4 feet while the second one shows 0.32 feet. Is there any chance of flood? 
 
